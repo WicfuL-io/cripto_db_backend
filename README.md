@@ -26,7 +26,7 @@ Pastikan environment kamu sudah memiliki:
 
 ## 🗄️ Import Database MySQL ke (phpMyAdmin)
 Database **TIDAK dibuat manual**.  
-Gunakan file **`maysql.sql`** yang ada di repository ini.
+Gunakan file **`mysql.sql`** yang ada di repository ini.
 
 ## 📥 Instalasi dari Awal (Fresh Install)
 
