@@ -28,6 +28,8 @@ Pastikan environment kamu sudah memiliki:
 Database **TIDAK dibuat manual**.  
 Gunakan file **`mysql.sql`** yang ada di repository ini.
 
+---
+
 ## 📥 Instalasi dari Awal (Fresh Install)
 
 ### 1️⃣ Clone Repository Backend
